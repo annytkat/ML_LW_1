@@ -1,4 +1,4 @@
-Model year;Make;Model;Vehicle class;Transmission;Fuel type;CO2 emissions (g/km);CO2 rating;Smog rating
+﻿Model year;Make;Model;Vehicle class;Transmission;Fuel type;CO2 emissions (g/km);CO2 rating;Smog rating
 2012;Mitsubishi;i-MiEV;Subcompact;A1;B;0;n/a;n/a
 2012;Nissan;LEAF;Mid-size;A1;B;0;n/a;n/a
 2013;Ford;Focus Electric;Compact;A1;B;0;n/a;n/a
